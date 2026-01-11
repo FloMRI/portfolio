@@ -41,6 +41,7 @@ return RectorConfig::configure()
     ])
     ->withSkip([
         AddOverrideAttributeToOverriddenMethodsRector::class,
+        __DIR__.'/app/Models/User.php',
     ])
     ->withPreparedSets(
         deadCode: true,
