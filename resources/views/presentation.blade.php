@@ -1,0 +1,4 @@
+<div>
+    <img src="" alt="profile_picture">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis ex ut leo faucibus aliquam sed a ipsum. Sed egestas interdum imperdiet. Aliquam vitae commodo lectus. Praesent a nisl pretium, consectetur orci pharetra, consectetur velit. Fusce in pretium sem. Suspendisse suscipit fermentum interdum. Proin dignissim tellus non dolor fermentum finibus. Nullam id elementum nisl. Maecenas vitae tellus vestibulum, euismod quam sed, accumsan lectus. Fusce aliquam aliquam augue, non blandit risus vehicula ac. Aenean dictum suscipit nulla, nec pharetra metus vulputate at. Quisque faucibus dictum sem, quis pellentesque risus imperdiet a. Cras porttitor, arcu at efficitur venenatis, dolor odio pretium mi, id sodales velit metus eu felis.</p>
+</div>
